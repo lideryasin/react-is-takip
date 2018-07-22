@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { HashRouter, Route, BrowserRouter, Switch, Router } from 'react-router-dom';
+import { HashRouter, Route,} from 'react-router-dom';
 import { Provider as AlertProvider } from 'react-alert';
 import AlertTemplate from 'react-alert-template-basic';
 import { CSSTransitionGroup } from 'react-transition-group';
@@ -10,9 +10,9 @@ import firebase from 'firebase';
 import './App.css';
 
 
-import createHistory from "history/createBrowserHistory"
+/*import createHistory from "history/createBrowserHistory"
 
-const history = createHistory()
+const history = createHistory()*/
 
 const options = {
   position: 'bottom center',
