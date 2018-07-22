@@ -27,12 +27,6 @@ class App extends Component {
     super();
 
     firebase.initializeApp({
-      apiKey: "AIzaSyBuuP4Od1XOJC8GSZ-0BnWXnP4Q3PygLpw",
-      authDomain: "yemektakip-e7e76.firebaseapp.com",
-      databaseURL: "https://yemektakip-e7e76.firebaseio.com",
-      projectId: "yemektakip-e7e76",
-      storageBucket: "yemektakip-e7e76.appspot.com",
-      messagingSenderId: "815316877527"
     })
 
   }
