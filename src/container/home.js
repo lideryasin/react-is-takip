@@ -222,6 +222,8 @@ class Home extends Component {
                     <option value="Payfull">Payfull</option>
                     <option value="Manim">Manim</option>
                     <option value="Risk Intelligence System">Risk Intelligence System</option>
+                    <option value="Data Center">Data Center</option>
+                    <option value="Yıllık Bakım Anlaşması">Yıllık Bakım Anlaşması</option>
                   </select>
 
                   <label className="yazi">Durum Bilgisi</label>
