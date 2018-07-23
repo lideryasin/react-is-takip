@@ -304,6 +304,8 @@ class Detay extends Component {
                             <option value="Tiorana">Tiorana</option>
                             <option value="Invenoa">Invenoa</option>
                             <option value="Gaoteknoloji">Gaoteknoloji</option>
+                            <option value="Data Center">Data Center</option>
+                            <option value="Yıllık Bakım Anlaşması">Yıllık Bakım Anlaşması</option>
                         </select>
 
                         <label className="yazi">Yönlendirdiğim kişi</label>
